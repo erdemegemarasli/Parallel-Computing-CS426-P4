@@ -10,6 +10,6 @@ Memory Clock Rate (KHz): 3003000
 Memory Bus Width (bits): 256 
 Peak Memory Bandwidth (GB/s): 192.192000 
 
-I use Google Colab for testing.
+I used Google Colab for testing.
 
 Erdem Ege Maraşlı
